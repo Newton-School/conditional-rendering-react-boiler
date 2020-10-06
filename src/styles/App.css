@@ -1,0 +1,21 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.content {
+    border: 2px solid red;
+    padding: 20px;
+    position: absolute;
+    margin-top: 10px;
+    font-style: italic;
+}

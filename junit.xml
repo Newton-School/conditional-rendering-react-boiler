@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" time="3.912">
+  <testsuite name="App tests" errors="0" failures="0" skipped="0" timestamp="2020-10-06T19:00:30" time="2.629" tests="6">
+    <testcase classname="App tests Change State button exists" name="App tests Change State button exists" time="0.014">
+    </testcase>
+    <testcase classname="App tests Change Style button exists" name="App tests Change Style button exists" time="0.002">
+    </testcase>
+    <testcase classname="App tests Component exists with false initially" name="App tests Component exists with false initially" time="0.002">
+    </testcase>
+    <testcase classname="App tests Component exists without styles initially" name="App tests Component exists without styles initially" time="0.002">
+    </testcase>
+    <testcase classname="App tests Component state toggles" name="App tests Component state toggles" time="0.038">
+    </testcase>
+    <testcase classname="App tests Component style toggles" name="App tests Component style toggles" time="0.006">
+    </testcase>
+  </testsuite>
+</testsuites>
